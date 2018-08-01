@@ -5,8 +5,8 @@
 # QuickStart
 下载编译
 ```
-git clone https://github.com/gsfeng2015/Wordfilter.git
-cd Wordfilter
+git clone https://github.com/gsfeng2015/SensitiveWordFilter-DFA.git
+cd SensitiveWordFilter
 mvn clean install -Dmaven.test.skip -Denv=release
 ```
 
