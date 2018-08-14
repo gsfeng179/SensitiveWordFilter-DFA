@@ -20,8 +20,10 @@ mvn clean install -Dmaven.test.skip -Denv=release
 </dependency>
 ```
 
-# 使用
-具体使用见wordfilter-example
+# 代码示例
+项目中提供了Example,供参考使用：
+
+[wordfilter-example](/wordfilter-example/src/main/java/com/gsfeng/wordfilter/example/WordfilterExampleApplication.java)
 
 
 #FAQ
